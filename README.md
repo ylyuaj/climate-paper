@@ -1,5 +1,5 @@
 README:
-This repository contains the processed data (afb_working.Rdata) and R scripts needed to replicate the main analysis for the paper Climate-induced Citizen Noncompliance Undermines State Capacity in Africa.
+This repository contains the R scripts and data sources needed to replicate the main analysis for the paper Climate-induced Citizen Noncompliance May Undermine State Capacity in Africa.
 
 Software:
 Version: R-4.3.0
